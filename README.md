@@ -1,3 +1,3 @@
 # GroundStation
 
-![alt text] images/Yer İstasyonu Son Halipng.png
+![alt text] (images/Yer İstasyonu Son Halipng.png)
