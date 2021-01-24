@@ -16,7 +16,9 @@ T-MUY aims to provide undergraduate and graduate students with the opportunity t
 
 
 - **Team Advisor**
+
     - Prof.Dr. Ahmet Bingül
+    
 - **Team Members**
     - Enes Alp
 
