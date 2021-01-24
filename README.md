@@ -14,20 +14,10 @@ TÜRKSAT Model Satellite Competition is a design-build-flight competition. The T
 
 T-MUY aims to provide undergraduate and graduate students with the opportunity to transfer knowledge from theory to practice and to acquiring the ability to work interdisciplinary. Additionally, It is aimed that the students will have the opportunity to share their experiences with other university teams and to communicate with the institution, companies, experts and engineers operating in the sector.
 
-<font color="#FF5733">
 
 - **Team Advisor**
-</font>
-<font color="#FFC300">
-
     - Prof.Dr. Ahmet Bingül
-</font>
-<font color="#FF5733">
-
 - **Team Members**
-</font>
-<font color="#FFC300">
-
     - Enes Alp
 
     - Tayfur Çınar
@@ -37,8 +27,6 @@ T-MUY aims to provide undergraduate and graduate students with the opportunity t
     - Ahmet Uzun
 
     - Emre Can Sönmez
-
-</font>
 
 ---
 
@@ -55,10 +43,10 @@ Original file is [GaziGroundStation.mlapp](GaziGroundStation.mlapp) but you can'
 
 <br> </br>
 
-> There is a <span style="color:blue">3D model satallite </span> behind the 3D png image.
+> There is a [3D model satallite]() behind the 3D png image.
 <p align="center">
-<img width = "200" height = "180" src = "images/3D3.png">
-<img width = "200" height = "180" src = "images/untitled1.png">
+<img width = "250" height = "230" src = "images/3D3.png">
+<img width = "250" height = "230" src = "images/untitled1.png">
 </p>
 <br> </br>
 
