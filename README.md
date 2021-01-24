@@ -43,7 +43,7 @@ Original file is [GaziGroundStation.mlapp](GaziGroundStation.mlapp) but you can'
 
 <br> </br>
 
-> There is a [3D model satallite]() behind the 3D png image.
+> There is a [3D model satallite](3D) behind the 3D png image.
 <p align="center">
 <img width = "250" height = "230" src = "images/3D3.png">
 <img width = "250" height = "230" src = "images/untitled1.png">
