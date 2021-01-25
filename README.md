@@ -1,6 +1,5 @@
-## GroundStation
 
-#### Gazi Uzay
+### Gazi Uzay
 >
 <p align="center" > 
 <img src="images/gazi.png" width="150" height="150">
@@ -31,6 +30,8 @@ T-MUY aims to provide undergraduate and graduate students with the opportunity t
     - Emre Can Sönmez
 
 ---
+
+## GroundStation
 
 <font size=2>
 
