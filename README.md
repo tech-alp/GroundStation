@@ -5,7 +5,7 @@
 <img src="images/gazi.png" width="150" height="150">
 </p>
 
-> Gazi Uzay which founded in September 2019     finished 18th among 149 teams in the 2020 Teknofest Model Satellite Competition.
+> Gazi Uzay which founded in September 2019 finished 18th among 149 teams in the 2020 Teknofest Model Satellite Competition.
 
 #### General Information About The Competition :
 
@@ -19,6 +19,7 @@ T-MUY aims to provide undergraduate and graduate students with the opportunity t
     - Prof.Dr. Ahmet Bingül
     
 - **Team Members**
+
     - Enes Alp
 
     - Tayfur Çınar
