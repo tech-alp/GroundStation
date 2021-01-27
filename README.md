@@ -24,9 +24,9 @@ T-MUY aims to provide undergraduate and graduate students with the opportunity t
 
     - Tayfur Çınar
 
-    - Ozan Kaçar
-
     - Ahmet Uzun
+
+    - Ozan Kaçar
 
     - Emre Can Sönmez
 
